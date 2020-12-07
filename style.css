@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: yellowgreen;
+    color: orangered;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: yellowgreen;
+    background: orangered;
 }
 .navbar .max-width{
     display: flex;
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: yellowgreen;
+    color: orangered;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: yellowgreen;
+    color: orangered;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: yellowgreen;
+    background: orangered;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -193,23 +193,23 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: yellowgreen;
+    color: orangered;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: yellowgreen;
+    background: orangered;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid yellowgreen;
+    border: 2px solid orangered;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: yellowgreen;
+    color: orangered;
     background: none;
 }
 
@@ -235,25 +235,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: yellowgreen;
+    color: orangered;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: yellowgreen;
+    background: orangered;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid yellowgreen;
+    border: 2px solid orangered;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: yellowgreen;
+    color: orangered;
     background: none;
 }
 
@@ -284,7 +284,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: yellowgreen;
+    background: orangered;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -294,7 +294,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: yellowgreen;
+    color: orangered;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
@@ -324,18 +324,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: yellowgreen;
+    background: orangered;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid yellowgreen;
+    border: 2px solid orangered;
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: yellowgreen;
+    color: orangered;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -363,7 +363,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: yellowgreen;
+    background: orangered;
 }
 .skills-content .right .html::before{
     width: 90%;
@@ -394,7 +394,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .projects .carousel .card:hover{
-    background: yellowgreen;
+    background: orangered;
 }
 .projects .carousel .card .box{
     display: flex;
@@ -416,7 +416,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid yellowgreen;
+    border: 5px solid orangered;
     transition: all 0.3s ease;
 }
 .projects .carousel .card:hover img{
@@ -432,7 +432,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid yellowgreen!important;
+    border: 2px solid orangered!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -441,7 +441,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: yellowgreen!important;
+    background: orangered!important;
 }
 
 /* contact section styling */
@@ -472,7 +472,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: yellowgreen;
+    color: orangered;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -526,8 +526,8 @@ section .title::after{
 .contact .right form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid yellowgreen;
-    background: yellowgreen;
+    border: 2px solid orangered;
+    background: orangered;
     color: #fff;
     outline: none;
     font-size: 20px;
@@ -537,7 +537,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: yellowgreen;
+    color: orangered;
     background: none;
 }
 
@@ -549,7 +549,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: yellowgreen;
+    color: orangered;
     text-decoration: none;
 }
 footer span a:hover{
