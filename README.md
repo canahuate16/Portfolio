@@ -1,5 +1,6 @@
 # Portfolio
-![portfolio-img](https://user-images.githubusercontent.com/15930792/101323353-8a9f0980-3836-11eb-9c13-6295d05bdc3d.PNG)
+![portfolio-img](https://user-images.githubusercontent.com/15930792/101323451-b4583080-3836-11eb-972a-230b845413b8.PNG)
+
 
 ### Portfolio link
 * https://canahuate16.github.io/Portfolio/
