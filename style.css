@@ -254,6 +254,9 @@ section .title::after{
 }
 
 /* services section styling */
+.project-img {
+    color: whitesmoke;
+}
 .services, .projects{
     color:#fff;
     background: #111;
