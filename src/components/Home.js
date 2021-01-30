@@ -1,5 +1,3 @@
-
-
 const Home = () => {
     return (
         <section className="home" id="home">
