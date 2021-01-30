@@ -168,7 +168,7 @@ section .title::after{
 }
 .home{
     display: flex;
-    background: url("luis.png") no-repeat right;
+    background: url("luis\ \(2\).png") no-repeat right;
     height: 100vh;
     color: #fff;
     min-height: 1100px;
